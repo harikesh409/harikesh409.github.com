@@ -4,7 +4,6 @@ $(function () {
     niceScrollOptions = {
         cursorwidth: "5px",
         cursorcolor: "#1894ff",
-        cursorwidth: "7px",
         cursorborder: 0,
         cursorborderradius: "0",
         cursoropacitymin: "1"
