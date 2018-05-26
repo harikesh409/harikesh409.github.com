@@ -36,7 +36,7 @@ $(function () {
     
 
     $(window).on('resize', function () {
-        if (!window.matchMedia('(max-width: 767px)').matches) {
+        if (window.matchMedia('(max-width: 767px)').matches) {
             var hash = window.location.hash,
             scrollTopOffset;
             if (hash) {
