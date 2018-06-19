@@ -21,13 +21,13 @@ $(function () {
     });
 
     /**  Loading **/
-    $(window).on('load', function () {
+   /* $(window).on('load', function () {
         $(".loading").animate({
             "top": "-100%"
         }, "fast", function () {
             $(this).remove();
         });
-    });
+    }); */
 
     /**  Mobile Menu **/
     $(".menu-toggle").on("click", function () {
