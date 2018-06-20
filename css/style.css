@@ -1280,10 +1280,26 @@ input[type=number]::-webkit-outer-spin-button {
     opacity: 0;
   }
 }
-
+#particles-js {
+  position: absolute;
+  width: calc(100% - 300px);
+  height: 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: 50% 50%;
+  background: #6819e8; /* Old browsers */
+  background: -moz-linear-gradient(left, #6819e8 0%, #7437d0 35%, #615fde 68%, #6980f2 100%); /* FF3.6-15 */
+  background: -webkit-linear-gradient(left, #6819e8 0%,#7437d0 35%,#615fde 68%,#6980f2 100%); /* Chrome10-25,Safari5.1-6 */
+  background: linear-gradient(to right, #04A8F4 0%,#34bbf9 35%,#51c3f7 68%,#6980f2 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#6819e8', endColorstr='#6980f2',GradientType=1 ); /* IE6-9 */
+}
 /* Responsive */
 /* Screen Width 992px */
 @media only screen and (max-width: 992px) {
+  
+  #particles-js {
+    width:100%;
+  }
   .slide-menu-container {
     left: -186px;
   }
@@ -1566,19 +1582,7 @@ input[type=number]::-webkit-outer-spin-button {
   margin-top: 20%;
 }
 
-#particles-js {
-  position: absolute;
- width: 100%;
-  height: 100%;
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-position: 50% 50%;
-  background: #6819e8; /* Old browsers */
-  background: -moz-linear-gradient(left, #6819e8 0%, #7437d0 35%, #615fde 68%, #6980f2 100%); /* FF3.6-15 */
-  background: -webkit-linear-gradient(left, #6819e8 0%,#7437d0 35%,#615fde 68%,#6980f2 100%); /* Chrome10-25,Safari5.1-6 */
-  background: linear-gradient(to right, #04A8F4 0%,#34bbf9 35%,#51c3f7 68%,#6980f2 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#6819e8', endColorstr='#6980f2',GradientType=1 ); /* IE6-9 */
-}
+
 .reveal {
   visibility: visible; 
   -webkit-transform: translateY(0) scale(1); 
