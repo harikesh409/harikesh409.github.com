@@ -1,5 +1,5 @@
 User-Agent: *
-Disallow: /resume.pdf
+Disallow: /resume.pdf /Harikesh Pallantla Resume.pdf
 Allow: /
 
-Sitemap: http://www.harikesh.me/sitemap.xml
+Sitemap: http://harikesh409.github.io/sitemap.xml

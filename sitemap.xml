@@ -6,37 +6,37 @@
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 
 <url>
-  <loc>https://www.harikesh.me/</loc>
+  <loc>http://harikesh409.github.io/</loc>
   <lastmod>2018-06-13T19:08:06+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
-  <loc>https://www.harikesh.me/index.html</loc>
+  <loc>http://harikesh409.github.io/index.html</loc>
   <lastmod>2018-06-13T19:08:06+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.harikesh.me/about-me.html</loc>
+  <loc>http://harikesh409.github.io/about-me.html</loc>
   <lastmod>2018-06-13T19:08:06+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.harikesh.me/portfolio.html</loc>
+  <loc>http://harikesh409.github.io/portfolio.html</loc>
   <lastmod>2018-06-13T19:08:06+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.harikesh.me/resume.html</loc>
+  <loc>http://harikesh409.github.io/resume.html</loc>
   <lastmod>2018-06-13T19:08:06+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.harikesh.me/contact.html</loc>
+  <loc>http://harikesh409.github.io/contact.html</loc>
   <lastmod>2018-06-13T19:08:06+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.harikesh.me/resume.pdf</loc>
+  <loc>http://harikesh409.github.io/resume.pdf</loc>
   <lastmod>2018-06-13T19:08:06+00:00</lastmod>
   <priority>0.64</priority>
 </url>
