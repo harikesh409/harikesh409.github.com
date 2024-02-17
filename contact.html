@@ -193,6 +193,7 @@
                 "json"
               ).then(function (response) {
                   $("#form-success").show();
+                  $("#contact_form")[0].reset();
                 })
                 .catch(function (response) {
                   $("#form-error").show();
